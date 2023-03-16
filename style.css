@@ -1,0 +1,11 @@
+@media(min-width:768px){
+    #inputNews{
+        width: 50%;
+    }
+}
+
+
+#map{
+    width: 100%;
+    height: 100%
+}
